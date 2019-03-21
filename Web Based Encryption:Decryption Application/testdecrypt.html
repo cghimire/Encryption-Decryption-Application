@@ -1,0 +1,32 @@
+<html>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
+    
+    <br>text:<input id='text' type='text' value='0.1'/>
+    
+    <br>password:<input id='pass' type='text' value='cool'/>
+    
+    <br><button onclick="encrypt()">encrypt</button>
+    <br><button onclick="decrypt()">decrypt</button>
+    
+    
+    <br>encrypted:<br><input id='result'></input>
+    
+    
+    <br>decrypted:<br><span id="decode"></span>
+    
+    <script>
+        function encrypt(){
+            
+            var encrypted = CryptoJS.AES.encrypt(document.getElementById("text").value, document.getElementById("pass").value);
+            document.getElementById("result").value = encrypted;
+        }
+    
+    function decrypt(){
+        
+        var decrypted = CryptoJS.AES.decrypt(document.getElementById("result").value, document.getElementById("pass").value);
+        document.getElementById("decode").innerHTML = decrypted.toString(CryptoJS.enc.Utf8);
+    }
+    
+        </script>
+    
+</html>

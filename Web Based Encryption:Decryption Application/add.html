@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml"   xml:lang="en">
+    <title><?php echo APP_NAME ?>:Add User Information</title>
+    <script type="text/javascript" src="swf/swfobject.js"></script>
+    <link href="stylesheets/user_styles.css" rel="stylesheet" type="text/css">
+        <head>
+            <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+            <title>Add User Information</title>
+            <style>
+                
+                input[type="text"]
+                {
+                    border-radius:5px;
+                    padding:5px 10px;
+                    border:1px solid gray;
+                }
+            
+            input[type="submit"]
+            {
+                border-radius:5px;
+                padding:5px;
+                border: 1px solid black;
+            }
+            
+                </style>
+            
+            
+        </head>
+        <body>
+            <a href="add.html">Home</a>
+            <br/><br/>
+            
+            <form action="addUsers.php" method="post">
+                
+                
+                <div style="margin-left:auto;margin-right:auto;width:500px;padding:20px;border:5px solid gray;background-color:aliceblue;">
+                    <table style="margin-left:auto;margin-right:auto;" cellspacing="10">
+                        <tr>
+                            <td colspan="2" style="text-align:center"><h1>Add User Information</h1></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align:right">User ID: </td>
+                            <td><input type="text" name="id"/></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align:right">Name: </td>
+                            <td><input type="text" name="name"/></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align:right">Age: </td>
+                            <td><input type="text" name="age"/></td>
+                            
+                        </tr>
+                        </tr>
+                        <td style="text-align:right">Email: </td>
+                        <td><input type="text" name="email"/></td>
+                        </tr>
+                        </tr>
+                        <td></td>
+                        <td style="padding-top:20px"><input type="submit" value= "Add User Information"/></td>
+                        </tr>
+                        <tr>
+                            <td  colspan="2" style="padding-top:20px;text-align:center;"><a href="user_display.php">View User Information</a></td>
+                        </tr>
+                    </table>
+                    
+                </div>
+                
+            </form>
+        </body>
+        </html>
+
+
+
+

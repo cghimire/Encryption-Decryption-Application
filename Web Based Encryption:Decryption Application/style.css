@@ -1,0 +1,35 @@
+.wrapper{
+	width:780px;
+	background:#eee;
+	margin:0 auto;
+}
+.heading{
+	height:100px;
+	background:lightgray;
+	padding:20px;
+	text-align:center;
+}
+.navigation{
+	height:25px;
+    background:#90CAF9;
+}
+.content{
+	min-height:400px;
+	background:#ddd;
+	width:620px;
+	float:right;
+}
+.sidebar{
+	width:150px;
+	float:left;
+	background:lightsteelblue;
+	min-height:400px;
+}
+.footer{
+	clear:both;
+	background:gray;
+	height:30px;
+	color:white;
+	text-align:center;
+	padding:5px;
+}
