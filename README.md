@@ -1,2 +1,4 @@
-# CS-524_Project
-Encrytion/Decryption Application
+# Building Encrytion/Decryption Application
+## Overview
+
+
