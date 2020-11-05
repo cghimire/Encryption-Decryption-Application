@@ -13,9 +13,10 @@
 
 ## 📝 Table of Contents
 - [About](#about)
-- [Project Scope](#project-scope)
+- [Technologies](#technologies)
 - [User Interface](#user-interface)
 - [Demo](#demo)
+- [Installation](#installation)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
@@ -23,7 +24,7 @@ This project aims to develop software that can encrypt/decrypt the text and file
 
 We built web-based application using HTML and CSS, and app-based software using JAVA.
 
-## Technologies
+## Technologies <a name = "technologies"></a>
 ***
 A list of technologies used within the project:
 * [HTML]
@@ -33,28 +34,29 @@ A list of technologies used within the project:
 
 
 ## User Interface <a name = "user-interface"></a>
-**For web-application**
+**web-application**
 
 ![alt text]( https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/Encrypt%20img.png "UI encryption")
-**Encryption Application User Interface**
+**Web-based Encryption Application User Interface**
 
 ![alt text]( https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/Decrypt%20img.png "UI encryption")
-**Decryption Application User Interface**
+**Web-based Decryption Application User Interface**
 
-**For app-based application** 
-![alt text] (https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/crypt%20app.png "cryptkeeper java")
+
+![alt text](https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/crypt%20app.png "cryptkeeper java")
+**App-based Java application** 
 
 ## 🚀 Demo <a name = "demo"></a>
 
-Follow this [web link] for the demo. 
+Follow this [web link] for the web-based application. 
 
-## Installation
+Follow installation instrucction to run java application.
+
+## Installation <a name = "installation"></a>
 ***
-Just need to install NetBeans to run the java application.  
-```
-https://netbeans.apache.org/download/nb121/nb121.html
-```
-Note: To use the application in a special environment use ```lorem ipsum``` to start.
+Just need to install [NetBeans IDE](https://netbeans.apache.org/download/nb121/nb121.html)to run the java application.  
+
+Note: Upload CryptKeeper file to run the application
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
