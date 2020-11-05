@@ -24,7 +24,6 @@ This project aims to develop software that can encrypt/decrypt the text and file
 ## 🎈Project Scope <a name = "project-scope"></a>
 
 
-
 ## User Interface <a name = "user-interface"></a>
 
 ![alt text]( https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/Encrypt%20img.png "UI encryption")
@@ -35,7 +34,7 @@ This project aims to develop software that can encrypt/decrypt the text and file
 
 ## 🚀 Demo <a name = "demo"></a>
 
-Follow the web link for the demo using this [web link]. 
+Follow this [web link] for the demo. 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
