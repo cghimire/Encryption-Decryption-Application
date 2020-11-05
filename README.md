@@ -34,11 +34,11 @@ A list of technologies used within the project:
 
 
 ## User Interface <a name = "user-interface"></a>
-**Web-application Interface**
+**Web Application Interface**
 
 ![alt text]( https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/Encrypt%20img.png "UI encryption")
 
-**App-based Java application** 
+**Java Application Interface** 
 ![alt text](https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/crypt%20app.png "cryptkeeper java")
 
 ## 🚀 Demo <a name = "demo"></a>
@@ -49,13 +49,10 @@ Follow the Installation instructions to run java application.
 
 ## Installation <a name = "installation"></a>
 ***
-Just need to install [NetBeans IDE](https://netbeans.apache.org/download/nb121/nb121.html)to run the java application.  
+Just need to install [NetBeans IDE](https://netbeans.apache.org/download/nb121/nb121.html) to run the java application.  
 
 Note: Upload CryptKeeper file to run the application
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 This is a group project-- big thanks to Melissa, Wesley, and Rahul for the contribution! 
-
-
-
