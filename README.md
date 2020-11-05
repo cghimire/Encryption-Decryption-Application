@@ -21,10 +21,19 @@
 ## 🧐 About <a name = "about"></a>
 This project aims to develop software that can encrypt/decrypt the text and file and store the output using three different algorithms.
 
-## 🎈Project Scope <a name = "project-scope"></a>
+We built web-based application using HTML and CSS, and app-based software using JAVA.
+
+## Technologies
+***
+A list of technologies used within the project:
+* [HTML]
+* [CSS]
+* [Java]
+* [NetBeans IDE](https://netbeans.apache.org/download/nb121/nb121.html)
 
 
 ## User Interface <a name = "user-interface"></a>
+**For web-application**
 
 ![alt text]( https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/Encrypt%20img.png "UI encryption")
 **Encryption Application User Interface**
@@ -32,9 +41,20 @@ This project aims to develop software that can encrypt/decrypt the text and file
 ![alt text]( https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/Decrypt%20img.png "UI encryption")
 **Decryption Application User Interface**
 
+**For app-based application** 
+![alt text] (https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/crypt%20app.png "cryptkeeper java")
+
 ## 🚀 Demo <a name = "demo"></a>
 
 Follow this [web link] for the demo. 
+
+## Installation
+***
+Just need to install NetBeans to run the java application.  
+```
+https://netbeans.apache.org/download/nb121/nb121.html
+```
+Note: To use the application in a special environment use ```lorem ipsum``` to start.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
