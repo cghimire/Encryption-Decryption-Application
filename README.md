@@ -38,17 +38,14 @@ A list of technologies used within the project:
 
 ![alt text]( https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/Encrypt%20img.png "UI encryption")
 
-![alt text]( https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/Decrypt%20img.png "UI encryption")
-
 **App-based Java application** 
 ![alt text](https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/crypt%20app.png "cryptkeeper java")
-
 
 ## 🚀 Demo <a name = "demo"></a>
 
 Follow this [web link] for the web-based application. 
 
-Follow installation instrucction to run java application.
+Follow the Installation instructions to run java application.
 
 ## Installation <a name = "installation"></a>
 ***
