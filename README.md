@@ -34,17 +34,15 @@ A list of technologies used within the project:
 
 
 ## User Interface <a name = "user-interface"></a>
-**web-application**
+**Web-application Interface**
 
 ![alt text]( https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/Encrypt%20img.png "UI encryption")
-**Web-based Encryption Application User Interface**
 
 ![alt text]( https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/Decrypt%20img.png "UI encryption")
-**Web-based Decryption Application User Interface**
 
-
-![alt text](https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/crypt%20app.png "cryptkeeper java")
 **App-based Java application** 
+![alt text](https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/crypt%20app.png "cryptkeeper java")
+
 
 ## 🚀 Demo <a name = "demo"></a>
 
