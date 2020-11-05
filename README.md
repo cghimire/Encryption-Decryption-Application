@@ -27,18 +27,19 @@ This project aims to develop software that can encrypt/decrypt the text and file
 
 ## User Interface <a name = "user-interface"></a>
 
-![alt text]( "UI")
+![alt text]( https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/Encrypt%20img.png "UI encryption")
+**Encryption Application User Interface**
+
+![alt text]( https://github.com/cghimire/Encryption-Decryption-Application/blob/master/crypt%20img/Decrypt%20img.png "UI encryption")
+**Decryption Application User Interface**
 
 ## 🚀 Demo <a name = "demo"></a>
 
-![alt text](https://github.com/cghimire/Restaurant-Management-System-Project/blob/master/Screen%20Shot%20RM "screenshot")
-
-**This ia a screenshot of the web user interface. You can check the actual website by using this [web link]()**
-
+Follow the web link for the demo using this [web link]. 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-This is a group project-- big thanks to Lavan and Neha for contributing to the database and documentation! 
+This is a group project-- big thanks to Melissa, Wesley, and Rahul for the contribution! 
 
 
 
