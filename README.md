@@ -46,7 +46,7 @@ A list of technologies used within the project:
 
 Follow this [web link] for the web-based application. 
 
-Follow the Installation instructions to run java application.
+Follow the Installation instructions to run a java application software.
 
 ## Installation <a name = "installation"></a>
 ***
